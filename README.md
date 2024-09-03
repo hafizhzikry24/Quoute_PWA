@@ -1,5 +1,9 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+# Quote PWA
+![image](https://github.com/user-attachments/assets/f2b74b36-ccc8-4891-b90c-7580d1053786)
+
+
 ## Getting Started
 
 First, run the development server:
