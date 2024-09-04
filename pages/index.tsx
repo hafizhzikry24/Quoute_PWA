@@ -65,7 +65,7 @@ export default function Home() {
 
       </main>
       <footer className="mt-12 text-gray-200">
-        <p className="text-md mb-1">Powered by Next.js and Tailwind CSS</p>
+        <p className="sm:text-base text-sm mb-1">Powered by Next.js and Tailwind CSS</p>
         <p className="text-center text-xs">Created by Zikkdev</p>
       </footer>
     </div>
